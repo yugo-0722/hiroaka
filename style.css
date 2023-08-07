@@ -30,7 +30,7 @@ ul {
     /* justify-content: space-around; */
 }
 .navi {
-    margin: 60px;
+    margin: 45px;
 }
 /* .a {
     color: rgb(80, 156, 62);
@@ -111,6 +111,9 @@ a {
 }
 @media screen and (max-width:650px) {
 	/*　この位置に記述する　*/
+    .ul {
+        padding: 0;
+    }
     .honbun {
         padding: 10px 25px;
     }
